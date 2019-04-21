@@ -2,8 +2,8 @@
 // <summary>
 // This file defines the GridHelpers class.
 // </summary>
-// <copyright file="GridHelpers.cs" company="Flow International">
-//   Copyright (c) Flow International. All rights reserved.
+// <copyright file="GridHelpers.cs" company="Naren International">
+//   Copyright (c) Naren International. All rights reserved.
 // </copyright>
 //-----------------------------------------------------------------------
 
