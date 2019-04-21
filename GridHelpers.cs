@@ -11,7 +11,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace NoahGUI
+namespace Narens
 {
     /// <summary>
     /// The GridHelper class
